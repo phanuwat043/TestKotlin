@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="a_fragment">Hello blank A fragment</string>
+    <string name="b_fragment">Hello blank B fragment</string>
+</resources>
